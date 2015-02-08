@@ -1,0 +1,45 @@
+table 1 :
+Nodes - 1. users
+	2. feed (photos/videos/posts)
+
+Edges- 
+       1. likes (user-feed)
+       2. comments (users-feed)	
+	3. tags (users-feed)
+
+table 2:
+Nodes - 1. users
+
+Edges - 
+	1. Friends (user-user) Edge weight= Edge_weight-calcualotor()
+       	
+	algorithms - 
+
+
+(+5,-5)
+
+1. feed posted on user - +5
+2. multiple comments on user feed - +4
+3. comment on user feed - +3
+3. tagged in user's feed - +4
+3. tagged in some feed - +3
+4. like on user feed - +2
+5. common comment on different user - +1
+6. common likes on different user - +1   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shruv
+
+ 	
