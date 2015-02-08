@@ -4,4 +4,4 @@ The project collects all public data of any facebook user and stores it into a g
 The data is scrapped from Facebook HTML pages using Beautiful Soup along with Selenium 
 web Driver. Data is stored in a generated MYSQL database. 
 
-Usage: Fb_script -u <FB user name>
+Usage: Fb_script -u < FB user name >
